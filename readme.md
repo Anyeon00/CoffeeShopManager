@@ -29,9 +29,6 @@
 - 내 주문 조회 → email 식별
 - 개인의 주문 수정
 
-## 추가 기능
-
-- 재고 관리 (동시성)
 ***
 ## ERD
 ![스크린샷 2024-09-06 145808](https://github.com/user-attachments/assets/f11fcf9b-997b-4984-a651-410c0e39ee90)
